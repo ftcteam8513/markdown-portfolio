@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![JoeBots Logo](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/23559934_752201544971784_2754888580986378376_n.jpg?_nc_cat=101&ccb=2&_nc_sid=09cbfe&_nc_ohc=AxfyjHJIGgsAX_h_hV3&_nc_ht=scontent-ort2-2.xx&oh=263939ec5dc9fcd5e00096df9f46664c&oe=5FFADF78)
